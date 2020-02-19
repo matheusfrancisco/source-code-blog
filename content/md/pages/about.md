@@ -11,4 +11,5 @@ Currently I work in the leading SaaS platform in recruitment and selection using
 
 Throughout my career and graduate I've been lucky to work and study with inspiring people, on challenging projects, solving interesting problems. On this blog, I'm sharing my basics thoughts. You can also read about  list of books recommended to study [click here to see my list of books](matheusfrancisco.com.br/blog/my-reading-list/) .
 
+Also I would like to share some POC's I've made to study about programming language [projects to study programming](matheusfrancisco.com.br/projects/). 
 
